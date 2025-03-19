@@ -1,6 +1,8 @@
 ## Brooks Goodro
-Currently working on bettering myself and learning as much as I can.
-Check out my Resume/Cover Letter (Link this later)
+
+Check out my [Resume](https://github.com/user-attachments/files/19348636/Resume_FORM2_.pdf). 
+if you are intrested, I can provide the `LaTeX` code for it. <br>
+Learning how to code, use Github, design, to name a few. 
 <!--
 **Bgoodro/Bgoodro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
