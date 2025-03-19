@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Brooks Goodro
+Currently working on bettering myself and learning as much as I can.
+Check out my Resume/Cover Letter (Link this later)
 <!--
 **Bgoodro/Bgoodro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
